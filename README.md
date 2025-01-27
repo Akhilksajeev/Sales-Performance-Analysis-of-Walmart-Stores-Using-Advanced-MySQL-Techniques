@@ -1,4 +1,4 @@
-# Walmart-s-Retail-insights-optimization-using-Sql
+#Sales Performance Analysis of Walmart Stores Using Advanced MySQL Techniques
 Here’s your content broken down into concise points:
 
 1. **Analyzed Sales Growth**  
